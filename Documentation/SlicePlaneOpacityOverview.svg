@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f5f7fa"/>
+  <rect width="1200" height="80" fill="#232830"/>
+  <text x="40" y="52" font-family="sans-serif" font-size="34" font-weight="700" fill="#fff">Slice Plane Opacity</text>
+  <text x="850" y="50" font-family="sans-serif" font-size="20" fill="#c8cfd7">3D Slicer extension</text>
+  <rect x="40" y="115" width="705" height="510" rx="18" fill="#191c22" stroke="#646e7c" stroke-width="2"/>
+  <text x="65" y="165" font-family="sans-serif" font-size="24" font-weight="700" fill="#e6ebf0">3D View</text>
+  <ellipse cx="395" cy="370" rx="165" ry="180" fill="#3e444e" stroke="#7d8794" stroke-width="2"/>
+  <ellipse cx="395" cy="375" rx="95" ry="125" fill="#525862" stroke="#96a0ac" stroke-width="2"/>
+  <polygon points="160,370 390,265 635,350 410,455" fill="#e63c46" fill-opacity=".47" stroke="#ff5f69" stroke-width="2"/>
+  <polygon points="310,170 415,210 470,560 365,520" fill="#f5cd37" fill-opacity=".45" stroke="#ffe155" stroke-width="2"/>
+  <polygon points="505,185 595,235 295,545 205,500" fill="#41cd78" fill-opacity=".43" stroke="#5feb96" stroke-width="2"/>
+  <text x="80" y="590" font-family="sans-serif" font-size="19" fill="#e1e6eb">Independent Red / Yellow / Green plane opacity in 3D</text>
+  <rect x="785" y="115" width="375" height="510" rx="18" fill="#fff" stroke="#bcc3cd" stroke-width="2"/>
+  <text x="815" y="165" font-family="sans-serif" font-size="23" font-weight="700" fill="#282d34">3D slice plane controls</text>
+  <g font-family="sans-serif" font-size="19" fill="#2d323a">
+    <text x="815" y="225" font-weight="700">All planes</text>
+    <text x="815" y="315">Red</text>
+    <text x="815" y="405">Yellow</text>
+    <text x="815" y="495">Green</text>
+  </g>
+  <g stroke-linecap="round" stroke-width="12">
+    <line x1="815" y1="255" x2="1120" y2="255" stroke="#dee2e8"/><line x1="815" y1="255" x2="1015" y2="255" stroke="#5a6473"/>
+    <line x1="815" y1="345" x2="1120" y2="345" stroke="#dee2e8"/><line x1="815" y1="345" x2="950" y2="345" stroke="#d2414b"/>
+    <line x1="815" y1="435" x2="1120" y2="435" stroke="#dee2e8"/><line x1="815" y1="435" x2="1025" y2="435" stroke="#d2aa2d"/>
+    <line x1="815" y1="525" x2="1120" y2="525" stroke="#dee2e8"/><line x1="815" y1="525" x2="905" y2="525" stroke="#32a55f"/>
+  </g>
+  <rect x="820" y="558" width="305" height="44" rx="10" fill="#eff2f7"/>
+  <text x="840" y="586" font-family="sans-serif" font-size="16" fill="#414852">Show in 3D + opacity controls</text>
+</svg>

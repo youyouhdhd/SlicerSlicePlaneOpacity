@@ -3,7 +3,9 @@
   "build_dependencies": [],
   "build_subdirectory": ".",
   "category": "Visualization",
+  "enabled": true,
   "scm_revision": "main",
+  "scm_type": "git",
   "scm_url": "https://github.com/youyouhdhd/SlicerSlicePlaneOpacity.git",
   "tier": 1
 }

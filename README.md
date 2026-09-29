@@ -4,7 +4,7 @@
 
 It is intentionally focused on one task: controlling the 3D slice-plane model opacity. It does **not** change the foreground/background opacity used for 2D slice compositing. No patents are known to apply specifically to this extension.
 
-![Slice Plane Opacity overview](Documentation/SlicePlaneOpacityOverview.png)
+![Slice Plane Opacity overview](Documentation/SlicePlaneOpacityOverview.svg)
 
 ## Included module
 

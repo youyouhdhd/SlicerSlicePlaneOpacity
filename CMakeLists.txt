@@ -8,7 +8,7 @@ set(EXTENSION_CATEGORY "Visualization")
 set(EXTENSION_CONTRIBUTORS "youyouhdhd")
 set(EXTENSION_DESCRIPTION "Control the opacity and 3D visibility of the Red, Yellow, and Green slice planes in 3D Slicer.")
 set(EXTENSION_ICONURL "https://raw.githubusercontent.com/youyouhdhd/SlicerSlicePlaneOpacity/main/SlicePlaneOpacity/Resources/Icons/SlicePlaneOpacity.png")
-set(EXTENSION_SCREENSHOTURLS "https://raw.githubusercontent.com/youyouhdhd/SlicerSlicePlaneOpacity/main/Documentation/SlicePlaneOpacityOverview.png")
+set(EXTENSION_SCREENSHOTURLS "https://raw.githubusercontent.com/youyouhdhd/SlicerSlicePlaneOpacity/main/Documentation/SlicePlaneOpacityOverview.svg")
 set(EXTENSION_DEPENDS "NA")
 
 find_package(Slicer REQUIRED)
